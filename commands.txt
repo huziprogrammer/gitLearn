@@ -1,0 +1,32 @@
+Some Basic Commands of GitHub but with little bit combo of Linux:-
+1. git config --global user.name
+2. git config --global user.email
+3. git init
+4. ls -lart
+5. git add file.ext
+6. git status
+7. git commit
+8. ESC -> :wq
+9. touch file.ext
+10. git add -A
+11. git commit -m "Message here"
+12. git checkout file.ext
+13. git checkout -f
+14. git log
+15. git log -p -1
+16. git diff
+17. git diff --staged
+18. git commit -a -m "Message here"
+19. git rm
+20. git rm --cached
+21. .gitignore
+22. *.ext
+23. /.ext
+24. folder/
+25. git branch branchName
+26. git checkout branchName
+27. git merge branchName
+28. git checkout -b branchName
+29. git branch
+30. git remote set-url origin url.url
+31. git clone url.url folderName
